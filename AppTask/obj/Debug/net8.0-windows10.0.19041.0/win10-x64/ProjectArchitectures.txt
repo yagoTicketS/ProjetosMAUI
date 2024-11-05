@@ -1,0 +1,1 @@
+E:\Estudo app\ProjetosMAUI\AppTask\AppTask.csproj;x64
