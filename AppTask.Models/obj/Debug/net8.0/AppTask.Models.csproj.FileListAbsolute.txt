@@ -1,0 +1,12 @@
+E:\Estudo app\ProjetosMAUI\AppTask.Models\bin\Debug\net8.0\AppTask.Models.deps.json
+E:\Estudo app\ProjetosMAUI\AppTask.Models\bin\Debug\net8.0\AppTask.Models.dll
+E:\Estudo app\ProjetosMAUI\AppTask.Models\bin\Debug\net8.0\AppTask.Models.pdb
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.AssemblyInfoInputs.cache
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.AssemblyInfo.cs
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.csproj.CoreCompileInputs.cache
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.sourcelink.json
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.dll
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\refint\AppTask.Models.dll
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\AppTask.Models.pdb
+E:\Estudo app\ProjetosMAUI\AppTask.Models\obj\Debug\net8.0\ref\AppTask.Models.dll
