@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppMAUIGallery
+build_property.ProjectDir = E:\Estudo app\ProjetosMAUI\AppMAUIGallery\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/AppFlyout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.AppFlyout.xaml
+build_metadata.AdditionalFiles.TargetPath = AppFlyout.xaml
+build_metadata.AdditionalFiles.RelativePath = AppFlyout.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/Views/Components/Mains/BoxViewPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Components.Mains.BoxViewPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Components\Mains\BoxViewPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Components\Mains\BoxViewPage.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/Views/Layouts/StackLayoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Layouts.StackLayoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Layouts\StackLayoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Layouts\StackLayoutPage.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml
+
+[E:/Estudo app/ProjetosMAUI/AppMAUIGallery/Views/Menu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppMAUIGallery.Views.Menu.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Menu.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Menu.xaml

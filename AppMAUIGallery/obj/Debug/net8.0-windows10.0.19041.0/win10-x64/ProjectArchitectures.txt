@@ -1,0 +1,1 @@
+E:\Estudo app\ProjetosMAUI\AppMAUIGallery\AppMAUIGallery.csproj;x64
